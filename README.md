@@ -37,10 +37,11 @@
     + 是否需要登录或cookie：使用官方API key
     + 是否需要外网环境访问：是
 + LLama
-  + [nvidia提供的免费API](https://build.nvidia.com)
-    + 使用体验：响应很快，十分稳定，尚不清楚调用量上限
-    + 是否需要登录或cookie：使用nvidia提供的API key
-    + 是否需要外网环境访问：否
+  + ~~[nvidia提供的免费API](https://build.nvidia.com)~~
+    + ~~使用体验：响应很快，十分稳定，尚不清楚调用量上限~~
+    + ~~是否需要登录或cookie：使用nvidia提供的API key~~
+    + ~~是否需要外网环境访问：否~~
+    + 有免费额度
   + [HuggingFace提供的免费Chat逆向](https://github.com/kkkunny/HuggingChatAPI)
     + 这里有个我自己写的，已有的一个python的项目我没调用成功
     + 使用体验：响应较快，较稳定，尚不清楚调用量上限
