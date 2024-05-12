@@ -18,8 +18,10 @@
     + 使用体验：响应较快，较稳定
     + 是否需要登录或cookie：无需
     + 是否需要外网环境部署：是
-  + [ChandlerAi提供的免费GPT3.5](https://mychandler.bet/chat)
-    + 暂无逆向项目
+  + [ChandlerAi提供的免费GPT3.5](https://github.com/kkkunny/ChandlerAiAPI)
+    + 使用体验：响应较快，较稳定
+    + 是否需要登录或cookie：需要抓token
+    + 是否需要外网环境部署：否
 + Claude
   + [DuckDuckGo提供的免费Claude3Haiku](https://github.com/missuo/FreeDuckDuckGo)
     + 使用体验：响应较快，较稳定
@@ -55,6 +57,10 @@
     + 使用体验：响应较快，不稳定，有封号风险，挂的日本的梯子也没聊啥就被封了
     + 是否需要登录或cookie：使用Groq提供的API key
     + 是否需要外网环境访问：是
+  + [ChandlerAi提供的免费LLama3](https://github.com/kkkunny/ChandlerAiAPI)
+    + 使用体验：响应较快，较稳定
+    + 是否需要登录或cookie：需要抓token
+    + 是否需要外网环境部署：否
 + 国产模型
   + [阿里 通义千问逆向](https://github.com/LLM-Red-Team/qwen-free-api)
     + 使用体验：响应较快，很稳定
