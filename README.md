@@ -5,6 +5,12 @@
 > 
 > 注：这里记录的都是可以用来部署的项目或者官方API
 
++ DeepSeek
+  + [OpenRouter提供的免费R1](https://openrouter.ai/deepseek/deepseek-r1:free)
+    + 使用体验：响应较快
+    + 是否需要登录或cookie：需要API key
+    + 是否能够函数调用：否
+    + 是否需要外网环境部署：未知
 + GPT
   + [官网无需登录ChatGPT逆向](https://github.com/missuo/FreeGPT35)
     + 使用体验：响应慢，偶尔抽风，不稳定
