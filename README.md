@@ -11,6 +11,11 @@
     + 是否需要登录或cookie：需要API key
     + 是否能够函数调用：否
     + 是否需要外网环境部署：未知
+  + [硅基流动提供的免费蒸馏R1](https://cloud.siliconflow.cn/models)
+    + 使用体验：响应很慢
+    + 是否需要登录或cookie：需要API key
+    + 是否能够函数调用：是
+    + 是否需要外网环境部署：否
 + GPT
   + [官网无需登录ChatGPT逆向](https://github.com/missuo/FreeGPT35)
     + 使用体验：响应慢，偶尔抽风，不稳定
