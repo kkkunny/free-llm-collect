@@ -5,12 +5,18 @@
 > 
 > 注：这里记录的都是可以用来部署的项目或者官方API
 
-+ DeepSeek
-  + [OpenRouter提供的免费R1](https://openrouter.ai/deepseek/deepseek-r1:free)
++ 综合
+  + [OpenRouter](https://openrouter.ai/deepseek/deepseek-r1:free)
+    + 使用体验：响应较快
+    + 是否需要登录或cookie：需要API key
+    + 是否能够函数调用：视模型而异
+    + 是否需要外网环境部署：未知
+  + [Poixe AI](https://poixe.com/)
     + 使用体验：响应较快
     + 是否需要登录或cookie：需要API key
     + 是否能够函数调用：否
     + 是否需要外网环境部署：未知
++ DeepSeek
   + [硅基流动提供的免费蒸馏R1](https://cloud.siliconflow.cn/models)
     + 使用体验：响应很慢
     + 是否需要登录或cookie：需要API key
