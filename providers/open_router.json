@@ -1,0 +1,8 @@
+{
+  "name": "OpenRouter",
+  "path": "https://openrouter.ai/models?max_price=0",
+  "config": {
+    "free": true
+  },
+  "desc": "    + 使用体验：响应较快\n    + 是否需要登录或cookie：需要API key\n    + 是否能够函数调用：视模型而异\n    + 是否需要外网环境部署：未知"
+}
