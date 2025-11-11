@@ -19,19 +19,7 @@ def sanitize_cell(text: str) -> str:
 def format_desc(raw: str) -> str:
     if not raw:
         return ''
-    lines = []
-    for line in raw.splitlines():
-        s = line.strip()
-        # Remove leading + bullet marks
-        if s.startswith('+'):
-            s = s.lstrip('+').strip()
-        # Remove leading dashes or bullets
-        if s.startswith('-'):
-            s = s.lstrip('-').strip()
-        if s:
-            lines.append(html.escape(s))
-    # Join with <br> so markdown table preserves line breaks
-    return '<br>'.join(lines)
+    return raw.replace('\n', '<br>')
 
 rows = []
 for p in sorted(providers_dir.glob('*.json')):
